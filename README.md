@@ -1,4 +1,4 @@
-<h1 align="center">CleanArchMVC</h1>
+<h1 align="center">Clean Arch MVC</h1>
 
 ## 💻 Projeto
 
